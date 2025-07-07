@@ -1,8 +1,9 @@
+import HeroElement from '@/components/hero'
 import React from 'react'
 
 const App = () => {
   return (<>
-      <h1>Nextjs!</h1>
+      <HeroElement />
     </>
   )
 }

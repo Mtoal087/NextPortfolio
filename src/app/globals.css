@@ -3,7 +3,7 @@
 :root {
   --background: #0c142a;
   --foreground: #ededed;
-  --secondary: #8acff1;
+  --secondary: #03c7ff;
 }
 
 @theme inline {
@@ -24,6 +24,13 @@ body {
 }
 
 .hover-text-secondary:hover {
-  color: var(--secondary)
-  
+  color: var(--secondary);
+}
+
+.hover-bg-secondary:hover {
+  background: var(--secondary);
+}
+
+.hover-border-secondary:hover {
+  border-color: var(--secondary);
 }
