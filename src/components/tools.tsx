@@ -3,9 +3,12 @@ import React from 'react'
 const Tools = () => {
     return (
         <div className='flex flex-col md:flex-row justify-between relative'>
-            <h2 className='relative text-3xl w-full text-center md:text-left font-bold md:max-w-lg mb-10 md:mr-10 md:mb-0 md:w-max mr-0'>
-                Tools I am familiar with.
-            </h2>
+            <div className='relative w-full text-center md:text-left md:max-w-lg mb-10 md:mr-10 md:mb-0 md:w-max mr-0'>
+                <h2 className='text-3xl font-bold'>
+                    Tools I am familiar with.
+                </h2>
+                <p className='text-xl font-bold'>I have used these technologies at some point - either in personal projects or when completing my bachelor's degree in computer science.</p>
+            </div>
             <div className="grid gap-6 w-full mx-auto md:mx-0 sm:gap-8 md:gap-12 items-center place-content-center"
                 style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(90px, 1fr))' }}>
                 <div title="Anaconda" className="w-10 mx-auto flex items-center flex-col justify-center">
