@@ -35,3 +35,11 @@ body {
 .hover-border-secondary:hover {
   border-color: var(--secondary);
 }
+
+.border-secondary {
+  border-color: var(--secondary);
+}
+
+.border-gray {
+  border-color: rgba(128, 128, 128, 0.3);
+}
