@@ -2,8 +2,8 @@ import React from 'react'
 
 const Tools = () => {
     return (
-        <div className='flex flex-col md:flex-row justify-between relative'>
-            <div className='relative w-full text-center md:text-left md:max-w-lg mb-10 md:mr-10 md:mb-0 md:w-max mr-0'>
+        <div className='flex flex-col justify-between'>
+            <div className='text-center mb-10 mr-0 justify-center md:px-10'>
                 <h2 className='text-3xl font-bold'>
                     Tools I am familiar with.
                 </h2>
