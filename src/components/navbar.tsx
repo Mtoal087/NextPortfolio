@@ -37,7 +37,7 @@ const Navbar = () => {
                     {links.map((link) => (
                         <li key={link.href}>
                             <Link href={link.href} className={`${
-                                currPath === link.href ? 'opacity-100' : 'opacity-40 hover:opacity-100 transition-opacity'} list-none text-white
+                                currPath === link.href ? 'opacity-100' : 'opacity-40 hover:opacity-100 transition-opacity'} list-none text-white p-4
                             }`}>{link.label}</Link>
                         </li>
                     ))}
