@@ -46,7 +46,7 @@ body {
 }
 
 .hero-animate {
-  animation: hero 1s 0s forwards ease-out;
+  animation: hero 1s 0s forwards cubic-bezier(.57,.21,.69,1.25);
 }
 
 @keyframes hero {
