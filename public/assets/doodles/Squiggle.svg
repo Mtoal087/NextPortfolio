@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 316 28" width="316" height="28">
+	<title>Squiggle</title>
+	<defs>
+		<image  width="316" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATwAAAAcCAMAAADLAPO2AAAAAXNSR0IB2cksfwAAAEhQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////53h4sAAAABh0Uk5TADBvn7/fryBAj+//gBB/YM9fUHA/Tx+g+AJmlAAABAdJREFUeJztWdl2mzAQlQAhvGCndZf//72etPHxisSiCjC2BFpGpG3Snt4nYkujmatZLjFGQOAWSEQVYdAt/zwwaFXWEjeAxf/p6wEhL6voaNMp4IS8xCVOERfLowjx7C+An7ztJZ3uArOXVenjCIJfoPv+BOiqFiUf/krJKWcs6H595H08TqmTyL5DjOeiGdkn1/dR8jm50tL0hajWP8BW3ORNCvZ+Rnz0mjZuFgsQ7b8VWVJYwurA19D6cJFnpU4iPngMWzcHNcwxKMLS7K22kpfwJio7MPa2qibxp0YLuyFau65HXFxW83NsrPYORe31amrwtBHn/Dw2ypskpA3kZUlB8oJHILM2W7TK3Bsv9luftjodgezJVInsVwHNkpHe8gDGntmcq2BvSG2NwUcdCmGPlknisQaLM4S5zmoGuJOpRZpx4zmCbfaIkOFPS9MD0C7RXAGLZHuq7BmnwHqPAyhhIEMqWOVfg3spRk5Rlw0YW04hh1V7FdFi+MCUPfDr9U6NPLr6Ug5ojRLnbJ1n9LYErQEjiz099w/b+32MyXOMMZ6sGIp0re0Uih4tMYUtUHDymlAX3mO3/vTk2+fh0UxeXvIotTAnxKrfnVeR+rmt1gBdzgDTXdDS6tTNtfSYklg+xG0sNSproTLtb3s48d2xoEqYCtWsaU9a1lJCGLV6vzkRDw82WrIa4sV4DnH91lHueYuVLVM2JWd3Vc73zjW8cn+vRa+RBwDL9fTS2SsUjSZ1HKd8JnEdVPZ8zAmxLixZhReKE8bekpM9jghuY8NLl8cj6qTtpcspHfdG+YDOHmLd8C75VP1aHSqFnGxpN/PPuhIVfJm8pPIN5ORQhUjpI2ZksbK01lRQzld7RXLik6tsJ9RJOLlWYaAOTdiDQ/YnscNXzR/aBA8DD3MtVBd5Ly5KjuIGk3HoNVaZ1s8xUAeOvvhg8fHrjDdb3mzIN9MXeWzvtgYIZvNKg3cKDGDYTIf1nLzw37aZ9hueguJFoqo+GYnrAQ60bcAV7EWOxsDqEnLd9qx50BaIsGs/X634CiMkW6RA9KQK1BprVtBXYDlyvQLvhp7kLw3q8y/+/tlxzx1c7MmENcx/HfB4XSl3t3b15p7gIcy1APYWNkcdbK5G+vx5csMi8q3giVVLBFpr327CmEOw3iThluA20Azr2SNSlgE7SovdweGcdTzYYJ9hsOQ1ANT24sNcXUo3rGjaB8nbDoe6aPtvIWFZGHEOa2yZzWOuhaaVTRBcSrHXiPrXgGbjMcWYWAcX2GAt0n/OkW1uZs4NwIm1OEQVr/t0eSvyJHKKewEfJ8+zaXtYy9i5C0ak2f4X/EBs+hWCry6xWhpvSN57x/Z+BactSkSEJrn8E+oHimIFGrGRAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
