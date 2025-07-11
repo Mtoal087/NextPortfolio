@@ -19,7 +19,7 @@ const Navbar = () => {
             <nav className='flex items-center justify-between'>
                 <li className='list-none font-bold text-lg cursor-pointer'>
                     <span className='font-black text-xl flex items-center'>
-                        <a href="/">
+                        <Link href="/">
                             {/* <img src="" alt="" className='mr-2 transform hover:rotate-360 hover:scale-75 transition-transform duration-500' /> */}
                             <span className="hover-text-secondary hover:-translate-y-1 transition-all duration-500 hover:duration-100 inline-block">M</span>
                             <span className="hover-text-secondary hover:-translate-y-1 transition-all duration-500 hover:duration-100 inline-block">a</span>
@@ -29,7 +29,7 @@ const Navbar = () => {
                             <span className="hover-text-secondary hover:-translate-y-1 transition-all duration-500 hover:duration-100 inline-block">o</span>
                             <span className="hover-text-secondary hover:-translate-y-1 transition-all duration-500 hover:duration-100 inline-block">a</span>
                             <span className="hover-text-secondary hover:-translate-y-1 transition-all duration-500 hover:duration-100 inline-block">l</span>
-                        </a>
+                        </Link>
                     </span>
                 </li>
 
