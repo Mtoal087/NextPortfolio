@@ -84,7 +84,7 @@ const Tools = () => {
                 style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(90px, 1fr))' }}>
                 {tools.map((tool) => (
                     <div key={tool.name} title={tool.name} className='w-10 mx-auto flex items-center flex-col justify-center'>
-                        <Image src={tool.pic} alt={tool.name} width={500} height={500} />
+                        <Image src={tool.pic} alt={tool.name} width={500} height={500} className={['Nextjs', 'Splunk', 'SocketIO', 'Rust', 'Github', 'Flask', 'Apple', 'Bash'].includes(tool.name) ? 'invert' : ''} />
                         <p className='text-xs text-fun-gray font-bold mt-3 opacity-80'>{tool.name}</p>
                     </div>
                 ))}
