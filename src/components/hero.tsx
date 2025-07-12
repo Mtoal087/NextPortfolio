@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import WifiDoodle from './wifiDoodle';
+import ComputerDoodle from './computerDoodle';
 
 const HeroElement = () => {
 	return (
@@ -15,6 +16,7 @@ const HeroElement = () => {
 					to <span className="text-secondary">help</span> others.
 				</h1>
 				<WifiDoodle />
+				<ComputerDoodle />
 				<Link href="#tools">
 					<div className="cursor-pointer font-bold whitespace-nowrap px-10 py-4 text-fun-white border-2 text-xl rounded-full border-fun-white bg-bg hover-bg-secondary hover:text-white hover-border-secondary transition-colors">
 						Tell me more
