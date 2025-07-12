@@ -1,3 +1,8 @@
+-- finish timeline component for career
+-- make it more efficient and easier to read by actually using react and using list
+-- make it look nicer than what it is now
+-- timeline documentation can be found [here](https://www.npmjs.com/package/react-vertical-timeline-component?activeTab=readme)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

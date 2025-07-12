@@ -1,8 +1,11 @@
+import Timeline from '@/components/career-components/timeline'
 import React from 'react'
 
 const CareerPage = () => {
     return (
-        <div>CareerPage</div>
+        <div>
+            <Timeline />
+        </div>
     )
 }
 

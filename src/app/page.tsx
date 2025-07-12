@@ -1,6 +1,6 @@
-import HeroElement from '@/components/hero';
-import Mail from '@/components/mail';
-import Tools from '@/components/tools';
+import HeroElement from '@/components/index-components/hero';
+import Mail from '@/components/index-components/mail';
+import Tools from '@/components/index-components/tools';
 import React from 'react';
 
 const App = () => {

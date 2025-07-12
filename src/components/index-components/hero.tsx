@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import React from 'react';
-import WifiDoodle from './wifiDoodle';
-import ComputerDoodle from './computerDoodle';
-import GlobeDoodle from './globeDoodle';
+import WifiDoodle from '../hero-components/wifiDoodle';
+import ComputerDoodle from '../hero-components/computerDoodle';
+import GlobeDoodle from '../hero-components/globeDoodle';
 
 const HeroElement = () => {
 	return (
