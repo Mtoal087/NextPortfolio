@@ -3,7 +3,7 @@ import React from 'react';
 
 const WifiDoodle = () => {
 	return (
-		<div className="relative w-full h-[30px] -top-[90px] sm:right-[5%] sm:-top-[90px] left-[5%] text-secondary -rotate-10 wifi-animate opacity-50 -z-1">
+		<div className="absolute w-full text-secondary -rotate-10 wifi-animate opacity-50 -z-1 -top-[0px]">
 			<svg
 				width="122"
 				height="60"
