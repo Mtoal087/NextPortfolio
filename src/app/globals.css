@@ -96,3 +96,21 @@ body {
     transform: translateY(0);
   }
 }
+
+.globe-animate {
+  animation: globe infinite 2.5s 0.5s;
+}
+
+@keyframes globe {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translate(-5px, 0);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import WifiDoodle from './wifiDoodle';
 import ComputerDoodle from './computerDoodle';
+import GlobeDoodle from './globeDoodle';
 
 const HeroElement = () => {
 	return (
@@ -17,6 +18,7 @@ const HeroElement = () => {
 				</h1>
 				<WifiDoodle />
 				<ComputerDoodle />
+				<GlobeDoodle />
 				<Link href="#tools">
 					<div className="cursor-pointer font-bold whitespace-nowrap px-10 py-4 text-fun-white border-2 text-xl rounded-full border-fun-white bg-bg hover-bg-secondary hover:text-white hover-border-secondary transition-colors">
 						Tell me more
