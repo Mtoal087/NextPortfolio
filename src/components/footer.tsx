@@ -10,8 +10,8 @@ const Footer = () => {
                     <h4 className="uppercase text-gray-400 text-sm font-bold">Pages</h4>
                     <div>
                         <div className="my-4"><Link href="/">Home</Link></div>
+                        <div className="my-4"><Link href="/career">Career</Link></div>
                         <div className="my-4"><Link href="/project">Projects</Link></div>
-                        <div className="my-4"><Link href="/other">Others</Link></div>
                         <div className="my-4"><Link href="/blog">Blog</Link></div>
                     </div>
                 </div>
