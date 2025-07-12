@@ -78,3 +78,21 @@ body {
     transform: translateY(0);
   }
 }
+
+.computer-animate {
+  animation: computer infinite 2.2s 0.2s;
+}
+
+@keyframes computer {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translate(-5px, -5px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
