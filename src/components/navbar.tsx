@@ -16,7 +16,7 @@ const Navbar = () => {
 
     return (
         <div className='hidden sm:block z-100'>
-            <nav className='flex items-center justify-between'>
+            <nav className='flex items-center justify-between bg-transparent'>
                 <li className='list-none font-bold text-lg cursor-pointer'>
                     <span className='font-black text-xl flex items-center'>
                         <Link href="/">
